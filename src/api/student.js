@@ -42,7 +42,7 @@ router.get('/:id', (req, res, next) => {
   console.log('strippedString : ' + strippedString);
 
   res.json({
-    message: 'Hello READ One',
+    message: 'Hello READ One.',
   });
 });
 
