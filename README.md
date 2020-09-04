@@ -43,3 +43,8 @@ npm run test
 ```
 npm run dev
 ```
+
+## After Setup
+```
+run http://localhost:5000/api/v1/student across GET, PUT, POST and DELETE in Postman or Insomnia
+```
